@@ -1,0 +1,13 @@
+{
+  "fonts.fontSize": "16px",
+  "themes.theme": "dark-theme",
+  "spaceUnits": 2,
+  "livedev.multibrowser": true,
+  "insertHintOnTab": true,
+  "linting.enabled": false,
+  "tabSize": 2,
+  "scrollPastEnd": true,
+  "brackets-eslint.gutterMarks": true,
+  "brackets-eslint.useLocalESLint": false,
+  "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace"
+}
